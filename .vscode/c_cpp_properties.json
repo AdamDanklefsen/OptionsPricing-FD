@@ -1,0 +1,41 @@
+{
+  "configurations": [
+    {
+      "name": "Windows x64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "c:/Projects/OptionsPricing-FD/.venv/Lib/site-packages/pybind11/include",
+        "c:/Projects/OptionsPricing-FD/.venv/Lib/site-packages/pybind11/include/pybind11",
+        "c:/Projects/OptionsPricing-FD/.venv/Include",
+        "C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0/Include"
+      ],
+      "defines": [],
+      "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/cl.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-msvc-x64",
+      "browse": {
+        "path": [
+          "${workspaceFolder}",
+          "c:/Projects/OptionsPricing-FD/.venv/Lib/site-packages/pybind11/include",
+          "C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0/Include"
+        ],
+        "limitSymbolsToIncludedHeaders": true
+      }
+    },
+    {
+      "name": "Windows x86",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "c:/Projects/OptionsPricing-FD/.venv/Lib/site-packages/pybind11/include",
+        "C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0/Include"
+      ],
+      "defines": [],
+      "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/bin/Hostx86/x86/cl.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-msvc-x86"
+    }
+  ],
+  "version": 4
+}
